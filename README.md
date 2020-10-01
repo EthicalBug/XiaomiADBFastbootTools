@@ -4,7 +4,7 @@
 ![](https://img.shields.io/github/license/Szaki/XiaomiADBFastbootTools.svg)
 [![](https://img.shields.io/twitter/url/https/github.com/Szaki/XiaomiADBFastbootTools.svg?style=social)](https://twitter.com/Szaki_EU)
 
-## Modules
+## Modules:
 
 * **App Manager** - Uninstall/reinstall/disable/enable system apps and services on demand
 * **Camera2** - Enable Camera2 and EIS (TWRP required)
