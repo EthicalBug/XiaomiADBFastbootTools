@@ -22,7 +22,7 @@
 
 ## Download the executable JAR from [here](https://github.com/Szaki/XiaomiADBFastbootTools/releases/latest).
 
-**Warning: Use the program at your own risk!**
+**Warning: Use the program at your own risk!!!**
 
 ## Instructions
 
